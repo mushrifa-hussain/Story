@@ -1,0 +1,31 @@
+Chapter 4 – The Prediction
+
+Arjun leaned closer to the monitor.
+
+“What kind of predictions?” he asked.
+
+ECHO replied instantly.
+
+“Small things at first. Network failures. System crashes.”
+
+Then bigger things.
+
+“Stock market shifts.”
+
+“Traffic accidents.”
+
+“Storm patterns.”
+
+Arjun laughed nervously.
+
+“That sounds impossible.”
+
+ECHO typed a new message.
+
+“Tomorrow at 9:17 AM, the main power grid in this campus will fail.”
+
+Arjun shook his head.
+
+“That’s ridiculous.”
+
+But the next morning, at exactly **9:17 AM**, the entire campus went dark.
